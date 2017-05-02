@@ -1,2 +1,3 @@
 Javascript is a programming language created for web.
-* 如果你很熟悉用 HTML
+* If you familiar with HTML and CSS to create webpages, Javascript is the last piece you need to make your websites come to life.
+
