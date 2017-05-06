@@ -1,3 +1,3 @@
-Javascript is a programming language created for web.
-* If you familiar with HTML and CSS to create webpages, Javascript is the last piece you need to make your websites come to life.
+1. [Intro to Javascript](/front-end-development/what-is-javascript/1intro-to-javascript.md)
+
 
