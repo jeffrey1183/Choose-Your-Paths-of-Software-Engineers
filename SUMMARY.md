@@ -12,4 +12,5 @@
   * [What is Javascript](front-end-development/what-is-javascript.md)
     * [1.Intro to Javascript](front-end-development/what-is-javascript/1intro-to-javascript.md)
     * [2.History of Javascript](front-end-development/what-is-javascript/2history-of-javascript.md)
+    * 3. The Javascript Console
 
