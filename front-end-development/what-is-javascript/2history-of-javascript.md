@@ -12,7 +12,7 @@ Netscape Navigator was one of the Internet's first web browsers. Before Eich cre
 ![](/assets/historyOfJavascript_3.png)
 * Javascript in this course is totally different and not related to Java in any way.
 
-**Java !!**
+The fact is Javascript has a weird past when it comes to names.
 
 Javascript was originally called Livescript. It was changed back to Javascript as a marketing decision in order to the piggyback(背負) off the popularity of Java at that time.
 
