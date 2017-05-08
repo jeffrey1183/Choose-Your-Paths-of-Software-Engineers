@@ -10,12 +10,22 @@ Netscape Navigator was one of the Internet's first web browsers. Before Eich cre
 
 # Java and Javascript
 ![](/assets/historyOfJavascript_3.png)
-* Javascript in this course is totally different and not related to Java in any way.
+
+**Javascript in this course is totally different and not related to Java in any way.**
 
 The fact is Javascript has a weird past when it comes to names.
 
-Javascript was originally called Livescript. It was changed back to Javascript as a marketing decision in order to the piggyback(背負) off the popularity of Java at that time.
+Javascript was originally called Livescript. It was changed back to Javascript as a marketing decision in order to the piggyback off the popularity of Java at that time(以利用當時 Java 的名氣).
 
+As the language evolved, competing versions of the language emerged. So Javascript eventually taken to ECMA international that an official standard for the language could be formed.
+
+> 隨著程式語言的發展，有許多與之競爭的語言，後來 Javascirpt 被納入 [ECMA International](https://zh.wikipedia.org/wiki/Ecma国际) 的官方標準。
+
+Today the language of itself is still referred to as Javascript. But recent versions are referenced by their ECMAScript version number, like ES5 or ES6. Even more recently, the standard body has transformed to a year-based number to promote a more consistent release cycle. So we now have ES2016, ES2017, and so on.
+
+ˆ![](/assets/assets:historyOfJavascript_3.png)
+
+Javascript is going to be one of most popular language in the world. It is considered one 
 
 TIP: HTML and CSS are markup languages. Markup languages are used to describe and define elements within a document. 
 JavaScript is a programming language. Programming languages are used to communicate instructions to a machine. Programming languages can be used to control the behavior of a machine and to express algorithms.
