@@ -29,5 +29,7 @@ Today the language of itself is still referred to as Javascript. But recent vers
 Javascript is going to be one of most popular language in the world and is considered one of the three fundamental pillars of front-end web development. 
 > Javascript 被視為網站前端開發的三大支柱之一。
 
-TIP: HTML and CSS are markup languages. Markup languages are used to describe and define elements within a document. 
+# HTML,CSS and Javascript 
+HTML and CSS are markup languages. Markup languages are used to describe and define elements within a document. 
+
 JavaScript is a programming language. Programming languages are used to communicate instructions to a machine. Programming languages can be used to control the behavior of a machine and to express algorithms.
