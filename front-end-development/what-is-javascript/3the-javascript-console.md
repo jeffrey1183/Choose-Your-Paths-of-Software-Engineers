@@ -15,5 +15,5 @@ We will use console to run most of code in this course.
 ```
 alert("Heelo");
 ```
-
 ![](/assets/theJavascriptConsole_3.png)
+We can test code snippet with console. If you want to shift to next line. You have to type shift + Return instead of just Return key.
