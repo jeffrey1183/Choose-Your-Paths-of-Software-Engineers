@@ -1,24 +1,28 @@
 # Developer Tools on Different Browsers
 
-Developer tools on different browsers
-Did you know, every modern web browser includes its own set of developer tools?
+Every modern web browser includes its own set of developer tools as the introduction blow.
 
-If you didn't, that's okay. Developer tools aren't always the easiest thing to find in your browser. So, we've decided to help you out by creating this guide to developer tools!
+You can target a specific element by right-clicking in the page and selecting `Inspect`.
 
-## Instructions
-* Google Chrome 
-* Mozilla Firefox
+## Google Chrome 
+The Chrome DevTools are a set of web authoring and debugging tools built into Google Chrome. Use the DevTools to iterate, debug and profile your site. To learn more, [click here](https://developers.google.com/web/tools/chrome-devtools/).
+
+To open Chrome DevTools.you can use the shortcuts:
+* Command + Option + i (Mac)
+* Ctrl + Shift + i (Windows/Linux).
+* Open the Chrome settings menu in the top-right corner of your browser window and select `More Tools` > `Developer Tools`. 
+
+
+## Mozilla Firefox
+
 * Internet Explorer
 * Microsoft Edge
 * Safari
 * Opera
 
 
-The Chrome DevTools are a set of web authoring and debugging tools built into Google Chrome. Use the DevTools to iterate, debug and profile your site. To learn more, click here.
 
-To open Chrome DevTools, either right-click on any page element and select Inspect or open the Chrome settings menu in the top-right corner of your browser window and select More Tools > Developer Tools. Alternatively, you can use the shortcuts:
-Command + Option + i (Mac)
-Ctrl + Shift + i (Windows/Linux).
+
 Mozilla Firefox
 Firefox Developer Tools allow you to examine, edit, and debug HTML, CSS, and JavaScript on the desktop and on mobile. Also, you can download a version of of Firefox called Firefox Developer Edition that is tailored for developers, featuring the latest Firefox features and experimental developer tools. To learn more, click here.
 
@@ -50,4 +54,3 @@ Launch Opera Dragonfly with the following keyboard shortcuts:
 
 Command + Option + i (Mac)
 Ctrl + Shift + i (Windows/Linux).
-Alternatively, you can target a specific element by right-clicking in the page and selecting Inspect Element.
