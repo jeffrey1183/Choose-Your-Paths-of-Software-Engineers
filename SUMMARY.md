@@ -15,4 +15,5 @@
     * [3.The Javascript Console](front-end-development/what-is-javascript/3the-javascript-console.md)
     * [4.Developer tools on different browsers](front-end-development/what-is-javascript/4developer-tools-on-different-browsers.md)
     * [5.console.log](front-end-development/what-is-javascript/5consolelog.md)
+    * [6.JavaScript demo](front-end-development/what-is-javascript/6javascript-demo.md)
 
