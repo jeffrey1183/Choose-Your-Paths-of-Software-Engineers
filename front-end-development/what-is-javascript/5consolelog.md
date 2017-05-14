@@ -35,8 +35,7 @@ for(var i =0; i<10 ; i++){
 console.log(i)
 };
 ```
->
-Prints:
+> Prints:
 0
 1
 2
