@@ -3,7 +3,7 @@
 # Demo 1
 Open [the following site](https://daringfireball.net/projects/markdown/) in a new tab and in that tab also open up developer tools. Then paste the following code:
 
-```Javascript
+```JavaScript
 document.getElementsByTagName("h1")[0].style.color = "#ff0000";
 ```
 
@@ -19,7 +19,7 @@ Styling elements on the page is great, but you could also do that by just modify
 
 Refresh the page, then paste this line of code in the JavaScript console.
 
-```Javascript
+```JavaScript
 document.body.addEventListener('click', function () {
 var myParent = document.getElementById("Banner"); 
      var myImage = document.createElement("img");

@@ -1,8 +1,8 @@
 # console.log
 
-Developer tools make you  debug or test your idea directly in the browser. If you're familiar with HTML or CSS, you may use developer tools to experience with the style of a webpage. But you can also use it with Javascript.
+Developer tools make you  debug or test your idea directly in the browser. If you're familiar with HTML or CSS, you may use developer tools to experience with the style of a webpage. But you can also use it with JavaScript.
 
->如果你有學過點 HTML 或 CSS 你可能早就發現，你可以在 Chrome 裡開啟 Console 去改一些 HTML，改完之後網頁也會跟著變。然而你一樣可以去改 Javascript。
+>如果你有學過點 HTML 或 CSS 你可能早就發現，你可以在 Chrome 裡開啟 Console 去改一些 HTML，改完之後網頁也會跟著變。然而你一樣可以去改 JavaScript。
 
 Developer tools are often used as **sandbox**. In other words, a place to mess around with any code without any long-term consequences. You can test and debug a piece of code you just learned.
 
@@ -30,7 +30,7 @@ The message you’ve logged is "hiya friend!".
 # The Example of Loop (Optional)
 Let’s use console.log to do something a little more interesting. Here’s a block of JavaScript code that loops through the numbers 0 through 9 and prints them out to the console:
 
-```Javascript
+```JavaScript
 for(var i =0; i<10 ; i++){
 console.log(i)
 };
