@@ -20,4 +20,5 @@
   * [Lesson 2:Data Types & Variables](front-end-development/lesson-2data-types-and-variables.md)
     * [1.Intro To Data Types](front-end-development/lesson-2data-types-and-variables/1intro-to-data-types.md)
     * [2.Numbers](front-end-development/lesson-2data-types-and-variables/2numbers.md)
+    * [3.Comments](front-end-development/lesson-2data-types-and-variables/3comments.md)
 
