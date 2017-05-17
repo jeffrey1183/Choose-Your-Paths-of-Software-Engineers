@@ -3,14 +3,18 @@ Defining a number in JavaScript is actually pretty simple. The Number data type 
 
 Entering a number into the console will return it right back to you.
 
-```3```
+```
+3
+```
 >Returns: 3
 
 # Arithmetic operations
 
 You can also perform calculations with numbers pretty easily. Basically type out an expression the way you would type it in a calculator.
 
-```2+2```
+```
+2+2
+```
 >Returns: 4
 
 You can try more complicated expressions.
