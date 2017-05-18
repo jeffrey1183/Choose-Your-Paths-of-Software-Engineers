@@ -22,4 +22,5 @@
     * [2.Numbers](front-end-development/lesson-2data-types-and-variables/2numbers.md)
     * [3.Comments](front-end-development/lesson-2data-types-and-variables/3comments.md)
     * [4.Quiz: First Expression \(2-1\)](front-end-development/lesson-2data-types-and-variables/4quiz-first-expression-2-1.md)
+    * [5.Strings](front-end-development/lesson-2data-types-and-variables/5strings.md)
 
