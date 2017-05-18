@@ -8,13 +8,12 @@ In JavaScript, a comment is any text after a double forward slash if you want to
 
 ![](/assets/comments_1.png)
 
-If you know you're going to write a block of comments.
-Using a slash star and star slash.
+If you know you're going to write a block of comments. Using a slash star and star slash.
 
 >要寫一堆 comment 可以用 `/* */`
 ![](/assets/comments_2.png)
 
 Comments are not executed by Javascript interpreter so you can write useful and helpful comments.
 
-The comments make us easier to remember what this code was originally for.
+The comments make us easier to remember what this code was originally for. 
 ![](/assets/comments_3.png)
