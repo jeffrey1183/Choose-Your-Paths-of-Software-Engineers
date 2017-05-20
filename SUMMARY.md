@@ -24,4 +24,5 @@
     * [4.Quiz: First Expression \(2-1\)](front-end-development/lesson-2data-types-and-variables/4quiz-first-expression-2-1.md)
     * [5.Strings](front-end-development/lesson-2data-types-and-variables/5strings.md)
     * [6.String Concatenation](front-end-development/lesson-2data-types-and-variables/6string-concatenation.md)
+    * [7.Variables](front-end-development/lesson-2data-types-and-variables/7variables.md)
 
