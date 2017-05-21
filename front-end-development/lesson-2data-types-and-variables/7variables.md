@@ -4,9 +4,18 @@ All of this datas you've worked with so far has been one time use only. We need 
 
 In JavaScript, variable stored data. And they're not limit to the storing just numerical values, you can store  any data into variable.
 
+To create a variable, use the var keyword followed by the variableName and assign the operator which is equal sign. And put the value no the right side of the assignment operator.
 
-To do this, you can use variables.
+![](/assets/variable_1.png)
+
+As an example, this is a cat Zoe. We can use a variable called name and set it to the string Zoe for her name and  set the string 4 for the age.
+
+![](/assets/variable_2.png)
+
+# The Advantage of Variable
+ 
 Storing the value of a string in a variable is like packing it away for later use.
+
 
 ```var greeting = "Hello";```
 
@@ -27,6 +36,7 @@ greeting + " World!";
 When you create a variable, you write the name of the variable using camelCase (the first word is lowercase, and all following words are uppercase). Also try to use a variable name that accurately, but succinctly describes what the data is about.
 
 >一般命名變數，我們會描述這個變數要存什麼，描述的內容就當作變數的名稱，名稱可能會由好幾個英文字組成。然而第一個英文單字我們會用小寫，接下來的字都用大寫，這個方式稱作camel case。描述盡可能精簡與準確。
+
 
 
 ```JavaScript
