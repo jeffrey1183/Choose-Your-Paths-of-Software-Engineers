@@ -25,4 +25,5 @@
     * [5.Strings](front-end-development/lesson-2data-types-and-variables/5strings.md)
     * [6.String Concatenation](front-end-development/lesson-2data-types-and-variables/6string-concatenation.md)
     * [7.Variables](front-end-development/lesson-2data-types-and-variables/7variables.md)
+    * [8.Quiz:Quiz: Converting Temperatures \(2-2\)](front-end-development/lesson-2data-types-and-variables/8quizquiz-converting-temperatures-2-2.md)
 
