@@ -8,6 +8,10 @@
 
 ## 6. Choose your Path
 
+* [iOS Development](ios-development.md)
+  * [Lesson 1: Introduction to iOS](ios-development/lesson-1-introduction-to-ios.md)
+  * [Lesson 2: Introduction to Xcode](ios-development/lesson-2-introduction-to-xcode.md)
+    * [1.Introduction](ios-development/lesson-2-introduction-to-xcode/1introduction.md)
 * [Front-End Development](front-end-development.md)
   * [Lesson 1:What is JavaScript](front-end-development/what-is-javascript.md)
     * [1.Intro to Javascript](front-end-development/what-is-javascript/1intro-to-javascript.md)
@@ -27,4 +31,5 @@
     * [7.Variables](front-end-development/lesson-2data-types-and-variables/7variables.md)
     * [8.Quiz:Quiz: Converting Temperatures \(2-2\)](front-end-development/lesson-2data-types-and-variables/8quizquiz-converting-temperatures-2-2.md)
     * [9.String Index](front-end-development/lesson-2data-types-and-variables/9string-index.md)
+    * [10.Escaping strings](front-end-development/lesson-2data-types-and-variables/10escaping-strings.md)
 
