@@ -33,8 +33,11 @@
     * [8.Quiz:Quiz: Converting Temperatures \(2-2\)](front-end-development/lesson-2data-types-and-variables/8quizquiz-converting-temperatures-2-2.md)
     * [9.String Index](front-end-development/lesson-2data-types-and-variables/9string-index.md)
     * [10.Escaping strings](front-end-development/lesson-2data-types-and-variables/10escaping-strings.md)
-* Back-End Developer
+* [Back-End Developer](back-end-developer.md)
   * [Lesson 1: Introduction to Back-End Development](lesson-1-introduction-to-back-end-development.md)
     * [1.Back-End Path Intro](lesson-1-introduction-to-back-end-development/1back-end-path-intro.md)
     * [2.Prerequisites and Requirements](lesson-1-introduction-to-back-end-development/2prerequisites-and-requirements.md)
+    * [3.Syllabus](lesson-1-introduction-to-back-end-development/3syllabus.md)
+  * [2.Data and Tables](2data-and-tables.md)
+    * 1.Welcome To RDB
 
