@@ -38,6 +38,7 @@
     * [1.Back-End Path Intro](lesson-1-introduction-to-back-end-development/1back-end-path-intro.md)
     * [2.Prerequisites and Requirements](lesson-1-introduction-to-back-end-development/2prerequisites-and-requirements.md)
     * [3.Syllabus](lesson-1-introduction-to-back-end-development/3syllabus.md)
-  * [2.Data and Tables](2data-and-tables.md)
-    * 1.Welcome To RDB
+  * [Lesson 2:Data and Tables](2data-and-tables.md)
+    * [1.Welcome To RDB](2data-and-tables/1welcome-to-rdb.md)
+    * [2.What's A Database](2data-and-tables/2whats-a-database.md)
 

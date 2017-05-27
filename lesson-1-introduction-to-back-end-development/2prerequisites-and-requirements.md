@@ -31,4 +31,4 @@ This course does include a small Web application and some HTML and JavaScript in
 This course is an entry-level introduction to relational databases.
 
 You need a programming text editor (such as [Atom](https://atom.io)) installed on your computer. You should be able to use it to open and edit files of Python code.
->要有程式編譯器，像 [Atom](https://atom.io)
+>這門課不需要有任何跟 database 有關的經驗，只是要安裝程式編譯器，像 [Atom](https://atom.io)
