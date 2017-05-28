@@ -41,4 +41,5 @@
   * [Lesson 2:Data and Tables](2data-and-tables.md)
     * [1.Welcome To RDB](2data-and-tables/1welcome-to-rdb.md)
     * [2.What's A Database](2data-and-tables/2whats-a-database.md)
+    * [3.Quiz: Looking At Tables](2data-and-tables/3quiz-looking-at-tables.md)
 
