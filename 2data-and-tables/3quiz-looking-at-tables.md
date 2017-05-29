@@ -11,3 +11,5 @@ Database tables aren't all that different from tables you might find in an infog
 So first, when we look across a row like this one, what do these values in common? And second, when we look down a column like this one, what do the values have in common?
 >從橫的一行來看或是從直行來看，這些數值有什麼共同點？
 
+All of the values in a row, are part of the same sentence describing a country, like Columbia. Columbia has population of 47 million and the literacy rate of 94%. And all of the values in a column, are ones that have the same role or place.
+>同一個橫行(列)，都是描述一個國家的人口和識字率。同一直行(欄)是相同類型的數據。
