@@ -42,4 +42,5 @@
     * [1.Welcome To RDB](2data-and-tables/1welcome-to-rdb.md)
     * [2.What's A Database](2data-and-tables/2whats-a-database.md)
     * [3.Quiz: Looking At Tables](2data-and-tables/3quiz-looking-at-tables.md)
+    * [4.Quiz: Data Types And Meaning](2data-and-tables/4quiz-data-types-and-meaning.md)
 
