@@ -45,4 +45,5 @@
     * [4.Quiz: Data Types And Meaning](2data-and-tables/4quiz-data-types-and-meaning.md)
     * [5.Quiz: Data Meanings](2data-and-tables/5quiz-data-meanings.md)
     * [6.Zoo](2data-and-tables/6zoo.md)
+    * [7.Aggregations](2data-and-tables/7a.md)
 
