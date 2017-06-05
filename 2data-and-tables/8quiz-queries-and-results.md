@@ -18,10 +18,9 @@ Now let's take a look at a real database query against this table. Select food f
 
 ![](/assets/queriesAndResluts_4.png)
 
-The result table will have one column and two rows.
+The result table will have one column and two rows. Select means that we are fetching data out of the database rather than inserting or updating or doing something else. The next thing we see is food. That's the  set of columns. In this case, it's just one column that we want to see in the result. So, that's the answer to which columns we want. "From diet" is just what table we're taking about. Here, it's just one table. And where species equal orangutan is called a restriction. It says what rows we want. Specifically we want the rows species has the value orangutan.
+>在回傳的 table 裡我們會有一欄兩列。 Select 是指我們要取得資料庫的資料而不是插入或更新資料。food 是我們想在結果裡看到的一欄。from diet 是這個 table 的名字。species 等於 orangutan 我們稱作 restriction，代表我們要有 orangutan 這個值的那幾列。
+![](/assets/queriesAndResluts_5.png)
 
 
 
-In a relational database, when there are multiple answers to a question (like "What do brown bears eat?")
-
-  they will usually appear as multiple rows in a table. 
