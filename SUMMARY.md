@@ -47,4 +47,5 @@
     * [6.Zoo](2data-and-tables/6zoo.md)
     * [7.Aggregations](2data-and-tables/7a.md)
     * [8.Quiz: Queries And Results](2data-and-tables/8quiz-queries-and-results.md)
+    * [9.How Queries Happen](2data-and-tables/9how-queries-happen.md)
 
