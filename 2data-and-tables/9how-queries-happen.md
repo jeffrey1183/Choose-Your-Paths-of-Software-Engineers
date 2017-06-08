@@ -25,7 +25,16 @@ And we run it here is the result. Now, something to notice about the result is t
 So running a query against the database isn't like returning a single value from a function, it's more like returning a list, even if there might only be one element.
 >因此我們可以看出跑一個 query 跟跑 function 後回傳一個值不太一樣，而更像回傳一個列表，即使只有一個 element。
 
-In fact, even if we ask the database for 2 plus 2 like this. The answer is still actually a table with one column and one row. If we ask the database for the answers to three arithmetic problems at once then we'll get back a table with1 a single row and three columns, each of them giving one of the answers. You might have noticed that these columns have rather unusual names, they all are question marks column question mark. If 
+In fact, even if we ask the database for 2 plus 2 like this. The answer is still actually a table with one column and one row. 
 >如果我們輸入 2+2 到資料庫內，回傳的值一樣會是一個列表，包含一行和一列 。
 ![](/assets/howQueriesHappen_5.png)
+
+If we ask the database for the answers to three arithmetic problems at once then we'll get back a table with a single row and three columns, each of them giving one of the answers. 
+>如果我們一次運算三個算式的話，回覆的 table 會有一列三欄，每一欄有自己的答案。
+![](/assets/howQueriesHappen_6.png)
+
+You might have noticed that these columns have rather unusual names, they all are question marks column question mark. If we want to give them more descriptive names, we can do that. By using as sum here, we get back still a table with one row and one column, but now the column has a more descriptive name of sum instead of question mark column question mark
+>你可能已經注意到 ?column? 出現在欄位上，如果我們想要改變欄位名稱，我們可以在算式後面加上 as sum，table 就會出現 sum 的欄位名稱。
+![](/assets/howQueriesHappen_7.png)
+
 

@@ -48,4 +48,6 @@
     * [7.Aggregations](2data-and-tables/7a.md)
     * [8.Quiz: Queries And Results](2data-and-tables/8quiz-queries-and-results.md)
     * [9.How Queries Happen](2data-and-tables/9how-queries-happen.md)
+    * [10.Favorite Animals](2data-and-tables/10favorite-animals.md)
+    * [11.Related Tables](2data-and-tables/11related-tables.md)
 
