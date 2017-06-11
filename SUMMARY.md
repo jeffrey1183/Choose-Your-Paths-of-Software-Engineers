@@ -50,4 +50,5 @@
     * [9.How Queries Happen](2data-and-tables/9how-queries-happen.md)
     * [10.Favorite Animals](2data-and-tables/10favorite-animals.md)
     * [11.Related Tables](2data-and-tables/11related-tables.md)
+    * [12.Uniqueness And Keys](2data-and-tables/12uniqueness-and-keys.md)
 
