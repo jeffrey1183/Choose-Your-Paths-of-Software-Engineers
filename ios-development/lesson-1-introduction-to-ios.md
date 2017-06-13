@@ -5,6 +5,21 @@ This course will introduce you to
 
 If you have questions, go to [forum](https://discussions.udacity.com/c/nd000-choose-your-path/ios-developer).
 
+#Syllabus
+Using Objects
+* Objects are a foundational skill in Swift programming. We'll look at how they're used in some apps in the real world.
+
+Variables
+* Variables allow us to store information so we can use it later when we need it. Learn what variable types are available in Swift and how to declare them.
+
+Writing Structs with Properties
+* Structs provide us a nice way to group multiple values into a usable package. Learn how to declare and us structs in Swift.
+
+Operators and Expressions
+* Add, subtract, multiply, divide, and more using operators and expressions in Swift!
+
+Pirate Fleet Prep
+* Pirate Fleet is a Battleship clone with a small twist: there are mines!
 
 #iOS Development Tips and Tricks
 

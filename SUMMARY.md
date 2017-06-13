@@ -10,9 +10,9 @@
 
 * [iOS Development](ios-development.md)
   * [Lesson 1: Introduction to iOS](ios-development/lesson-1-introduction-to-ios.md)
-  * [Lesson 2: Introduction to Xcode](ios-development/lesson-2-introduction-to-xcode.md)
-    * [1.Introduction](ios-development/lesson-2-introduction-to-xcode/1introduction.md)
-    * [2.Course Map](ios-development/lesson-2-introduction-to-xcode/2course-map.md)
+  * [Lesson 2:Kickoff](ios-development/lesson-2-introduction-to-xcode.md)
+    * [1.Welcome](ios-development/lesson-2-introduction-to-xcode/1introduction.md)
+    * [2.Getting More Information: The Forum](ios-development/lesson-2-introduction-to-xcode/2course-map.md)
 * [Front-End Development](front-end-development.md)
   * [Lesson 1:What is JavaScript](front-end-development/what-is-javascript.md)
     * [1.Intro to Javascript](front-end-development/what-is-javascript/1intro-to-javascript.md)
