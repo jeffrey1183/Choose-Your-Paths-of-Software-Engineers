@@ -1,6 +1,4 @@
-#Course Map
+#Launching the Maze App
 
+At this point, we assume you have finished installing Xcode. If you have not, then you will have difficulty following the upcoming content. Also, before continuing forward, you will need to [download the project files for Maze app](https://github.com/udacity/ios-nd-robot-maze-1/archive/swift-3.zip). Once you've completed both those items, then join us in launching the Maze app.
 
-Xcode in the Apple Mac AppStore: https://itunes.apple.com/us/app/xcode/id497799835?mt=12
-
-or you can search the Mac AppStore for "Xcode"
