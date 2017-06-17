@@ -13,6 +13,7 @@
   * [Lesson 2:Kickoff](ios-development/lesson-2-introduction-to-xcode.md)
     * [1.Welcome](ios-development/lesson-2-introduction-to-xcode/1introduction.md)
     * [2.Launching the Maze App](ios-development/lesson-2-introduction-to-xcode/2course-map.md)
+    * [3.From Xcode to App](ios-development/lesson-2-introduction-to-xcode/3from-xcode-to-app.md)
 * [Front-End Development](front-end-development.md)
   * [Lesson 1:What is JavaScript](front-end-development/what-is-javascript.md)
     * [1.Intro to Javascript](front-end-development/what-is-javascript/1intro-to-javascript.md)
