@@ -15,4 +15,4 @@ With Project navigator selected, click the project name at the top to view the p
 ![](/assets/assets:navigatingXcode_3.png)
 
 Once selected, the Editor area displays project settings. This view gives us the ability to change settings such as our app's supported devices, orientations, and operating systems. For instance, you could specify that this project should only run on iPhones with the latest version of iOS 9, and the only supported orientation is Portrait. The current settings should be fine for now, but take a minute to read through them in Xcode.
->現在我們先點下 navigator 最左邊的 icon ，然後點最上面的 Maze(我們的專案名稱)，點下去之後中間的區塊就會顯示這個專案的 setting。
+>現在我們先點下 navigator 最左邊的 icon ，然後點最上面的 Maze(我們的專案名稱)，點下去之後中間的區塊就會顯示這個專案的 setting，我們可以修改 app 是否支援 iPhone 也支援 iPad、[device orientations](http://programmerneil.blogspot.tw/2014/01/ios-lock-orientation-of-viewcontroller.html)和 operating system，例如我們可以限制 app 只在 iPhone 上運行且要是 iOS 10 版本，然後畫面只能是 portrait 的，不能翻轉螢幕。
