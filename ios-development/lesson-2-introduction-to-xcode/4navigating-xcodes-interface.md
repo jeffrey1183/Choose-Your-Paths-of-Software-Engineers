@@ -48,4 +48,6 @@ Toggle the show/hide button for the Utilities.
 We will end our brief tour of Xcode here. To learn more about the ins and outs of Xcode, you can search the Xcode Documentation by clicking Help → Xcode Overview. The resulting page covers what we've talked about in much more detail and is a great resource for getting started.
 >如果你看不到這幾個區塊，你可以用右上角的三個按鈕去顯示或隱藏這些區塊，第一個按鈕可以控制 navigator，第二個按鈕是 debug 區塊(之後會講到)，第三個按鈕是 utilities，你可以自己去按按看。關於 Xcode 的簡介我們先講到這裡，更多資料可以看 [Xcode Overview](https://developer.apple.com/xcode/)，現在製作這份筆記的時間點是 2017年6月底，現在頁面上是 Xcode 9 的介紹。
 
+另外[這一篇文章](https://learn.co/lessons/reading-ios-xcode-overview)有關於 Xcode 介面的詳細介紹，也可以參考。
+
 

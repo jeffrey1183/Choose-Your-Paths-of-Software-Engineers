@@ -15,6 +15,7 @@
     * [2.Launching the Maze App](ios-development/lesson-2-introduction-to-xcode/2course-map.md)
     * [3.From Xcode to App](ios-development/lesson-2-introduction-to-xcode/3from-xcode-to-app.md)
     * [4.Navigating Xcode's interface](ios-development/lesson-2-introduction-to-xcode/4navigating-xcodes-interface.md)
+    * [5.Wrestling with the Swift Compiler](ios-development/lesson-2-introduction-to-xcode/5wrestling-with-the-swift-compiler.md)
 * [Front-End Development](front-end-development.md)
   * [Lesson 1:What is JavaScript](front-end-development/what-is-javascript.md)
     * [1.Intro to Javascript](front-end-development/what-is-javascript/1intro-to-javascript.md)
@@ -53,4 +54,6 @@
     * [10.Favorite Animals](2data-and-tables/10favorite-animals.md)
     * [11.Related Tables](2data-and-tables/11related-tables.md)
     * [12.Uniqueness And Keys](2data-and-tables/12uniqueness-and-keys.md)
+* [Data Analyst](data-analyst.md)
+  * [Lesson 1:Data Analyst Path Intro](data-analyst/lesson-1data-analyst-path-intro.md)
 
