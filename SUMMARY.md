@@ -8,7 +8,7 @@
 
 ## 6. Choose your Path
 
-* [iOS Development](ios-development.md)
+* [iOS Developer](ios-development.md)
   * [Lesson 1: Introduction to iOS](ios-development/lesson-1-introduction-to-ios.md)
   * [Lesson 2:Kickoff](ios-development/lesson-2-introduction-to-xcode.md)
     * [1.Welcome](ios-development/lesson-2-introduction-to-xcode/1introduction.md)
@@ -58,4 +58,6 @@
   * [Lesson 1:Data Analyst Path Intro](data-analyst/lesson-1data-analyst-path-intro.md)
   * [Lesson 2:Setting up Anaconda](data-analyst/lesson-2setting-up-anaconda.md)
     * [1.Introduction](data-analyst/lesson-2setting-up-anaconda/1introduction.md)
+* [Android Developer](android-developer.md)
+  * [Lesson 1:Introduction to Android](android-developer/lesson-1introduction-to-android.md)
 
