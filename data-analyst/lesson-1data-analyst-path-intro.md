@@ -28,22 +28,26 @@ In this lesson, you will start learning to use NumPy and Pandas to make the data
 
 ####NumPy and Pandas for 2D Data
 In this lesson, you'll continue learning about NumPy and Pandas, this time focusing on two-dimensional data. You'll learn to use two-dimensional NumPy arrays and Pandas DataFrames. You'll also learn to group your data and to combine data from multiple files.
->關於 [NumPy 和 Pandas](http://pandas.pydata.org/index.html)
+>我們會學 [NumPy 和 Pandas](http://pandas.pydata.org/index.html)幫助我們做資料分析。
 
 #Getting Started with Data Analysis
 The following content is broken into two core pieces:
+>課程可以分成兩個部分，一個是 dictionaries 的介紹，你需要擁有 dictionaries 的知識才能做資料分析。
+
 
 ####Introduction To Dictionaries
 Before you dive into the full Intro to Data Analysis course, you'll need a solid understanding of dictionaries. If you decide to enroll in the [Data Analyst Nanodegree program](https://www.udacity.com/course/data-analyst-nanodegree--nd002), you will need this as a prerequisite as well. The following content on dictionaries comes from the same course as much of the concepts you covered in Code Your Own Quiz.
 
 ####Intro to Data Analysis
 You will be taking Intro to Data Analysis with Caroline. This course is a good first step towards understanding the data analysis process as a whole. Before delving into each individual phase, it is important to learn the difference between all phases of the process and how they relate to each other. This course also covers the Python libraries: NumPy, Pandas, and Matplotlib, which are indispensable tools for doing data analysis in Python. Their many convenient functions and high performance make writing data analysis code a lot easier!
+>接著就是了解資料分析的流程，要了解每一個部分彼此的關聯
 
 This course will require that you search and utilize documentation. Don’t hesitate to search through the documentation that exists for the Python libraries covered in this course:
 
-NumPy
-Pandas
-Matplotlib
+* [NumPy](http://www.numpy.org)
+* [Pandas](http://pandas.pydata.org)
+* [Matplotlib](http://matplotlib.org)
+
 The next two lessons will direct you to set up your computer by installing the Anaconda distribution and Jupyter Notebook -- two very useful tools for data analysts.
 
 As you make your way through these installation instructions, you'll see that students in the Data Analyst Nanodegree are encouraged to set up a Python 3 environment. We recommend setting up a Python 3 environment and a Python 2 environment, as both will be useful for the content that follows.
@@ -52,5 +56,5 @@ Also, note that the forum links provided in the following course material is onl
 
 Let's get started!
 
->課程可以分成兩個部分，一個是 dictionaries 的介紹，你需要擁有 dictionaries 的知識才能做資料分析。
+
 
