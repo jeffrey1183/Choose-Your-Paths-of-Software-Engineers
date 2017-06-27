@@ -40,21 +40,19 @@ Before you dive into the full Intro to Data Analysis course, you'll need a solid
 
 ####Intro to Data Analysis
 You will be taking Intro to Data Analysis with Caroline. This course is a good first step towards understanding the data analysis process as a whole. Before delving into each individual phase, it is important to learn the difference between all phases of the process and how they relate to each other. This course also covers the Python libraries: NumPy, Pandas, and Matplotlib, which are indispensable tools for doing data analysis in Python. Their many convenient functions and high performance make writing data analysis code a lot easier!
->接著就是了解資料分析的流程，要了解每一個部分彼此的關聯
+>接著就是了解資料分析的流程與每一部分，然後了解每一個部分彼此的關聯，課程就包含 Python 的 libraries NumPy、Pandas 和 Matplotlib，他們都是不可或缺的資料分析工具。 
 
 This course will require that you search and utilize documentation. Don’t hesitate to search through the documentation that exists for the Python libraries covered in this course:
 
 * [NumPy](http://www.numpy.org)
 * [Pandas](http://pandas.pydata.org)
 * [Matplotlib](http://matplotlib.org)
+>課程會需要用的 documentation
 
 The next two lessons will direct you to set up your computer by installing the Anaconda distribution and Jupyter Notebook -- two very useful tools for data analysts.
 
-As you make your way through these installation instructions, you'll see that students in the Data Analyst Nanodegree are encouraged to set up a Python 3 environment. We recommend setting up a Python 3 environment and a Python 2 environment, as both will be useful for the content that follows.
 
-Also, note that the forum links provided in the following course material is only accessible to students enrolled in the Data Analyst Nanodegree. For questions, visit the IPND forums.
-
-Let's get started!
+>下面會教我們安裝 Anaconda distribution 跟 Jupyter Notebook 這兩個好用的資料分析工具。
 
 
 
