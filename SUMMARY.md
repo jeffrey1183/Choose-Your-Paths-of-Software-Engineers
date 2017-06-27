@@ -56,4 +56,6 @@
     * [12.Uniqueness And Keys](2data-and-tables/12uniqueness-and-keys.md)
 * [Data Analyst](data-analyst.md)
   * [Lesson 1:Data Analyst Path Intro](data-analyst/lesson-1data-analyst-path-intro.md)
+  * [Lesson 2:Setting up Anaconda](data-analyst/lesson-2setting-up-anaconda.md)
+    * [1.Introduction](data-analyst/lesson-2setting-up-anaconda/1introduction.md)
 
