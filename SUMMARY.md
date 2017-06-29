@@ -60,4 +60,6 @@
     * [1.Introduction](data-analyst/lesson-2setting-up-anaconda/1introduction.md)
 * [Android Developer](android-developer.md)
   * [Lesson 1:Introduction to Android](android-developer/lesson-1introduction-to-android.md)
+  * [Lesson 2:Building Layouts](android-developer/lesson-2building-layouts.md)
+    * [1.Introduction](android-developer/lesson-2building-layouts/1introduction.md)
 
