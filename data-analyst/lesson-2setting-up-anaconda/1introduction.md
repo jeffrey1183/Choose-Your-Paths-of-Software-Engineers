@@ -1,4 +1,5 @@
 #Why Anaconda?
 [Anaconda](https://anaconda.org) is a distribution of packages built for data science. It comes with conda, a package and environment manager. You'll be using conda to create environments for isolating your projects that use different versions of Python and/or different packages. You'll also use it to install, uninstall, and update packages in your environments. Using Anaconda has made my life working with data much more pleasant.
 
-We working with projects 
+A lot of time we're working with projects that requires different library versions or different version of Python you even. My experience and many other people. It's really difficult to get all these versions to play nicely on one computer. To solve the problem we use virtual environments managed with libraries such as Virtualenv. Virtual environment let you separate libraries required by different project, so you can avoid conflicts.
+>大多時候，我們的專案可能需要不同的 library 版本或是不同的 Python 版本。
