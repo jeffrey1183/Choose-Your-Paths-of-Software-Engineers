@@ -18,3 +18,4 @@ Sometimes the world gives us a natural primary key for a table. For instance, yo
 
 For instance in the US, there are several states with a city named Springfield. There's Springfield Massachusetts, Springfield Illinois, and a whole bunch of others. So It's obvious that the name of Springfield isn't unique by itself. Now you might tempted to think that city plus state is unique, but it turns out that's not true either.
 
+![](/assets/unique_4.png)
