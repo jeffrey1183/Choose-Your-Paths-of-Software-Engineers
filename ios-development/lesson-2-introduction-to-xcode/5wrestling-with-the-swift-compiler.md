@@ -18,10 +18,12 @@ We’ll explore more Swift syntax and errors later. For now, let’s start think
 
 #Prepare
 Let’s stay out of Xcode for a second and make sure we can help solve the robot’s problem. We'll do this by writing an algorithm. An algorithm describes the steps we need to take to solve a problem. Right now, we know that the robot, the maze, and the star are positioned like this when the app starts:
+>我們先拋開 Xcode 一下，先確認我們可以解決問題。我們要寫一個演算法來解決問題，演算法會描述解決問題的步驟。現在我們可以參考下圖，先了解機器人、星星與迷宮的位置。
 
 ![](/assets/wrestiling_3.png)
 
-We will write our algorithm using pseudocode. Pseudocode is not real code, but is more like temporary notes or scratch work. Writing the pseudocode ahead of time will allow us to see any errors in our problem solution before we go through the trouble of writing actual code. The bigger the problem, the more time we can save by doing this.
+We will write our algorithm using **pseudocode**. Pseudocode is not real code, but is more like temporary notes or scratch work. Writing the pseudocode ahead of time will allow us to see any errors in our problem solution before we go through the trouble of writing actual code. The bigger the problem, the more time we can save by doing this.
+>一開始是預設機器人在迷宮中間，星星在左邊。我們會先用 pseudocode 來寫演算法，pseudocode 不算真的程式碼，比較像是暫時的筆記或是草圖。用 pseudocode 可以讓我們在正在寫 code 前知道我們的 solution 可能會有哪些錯誤。提早發現大問題，就可以省下時間。 
 
 Typically, writing algorithms in pseudocode can be done free-form (in other words, you can write whatever you want that assists you in solving the problem). But, for this exercise, try to write your pseudocode solution using only the following items:
 
@@ -30,4 +32,6 @@ Typically, writing algorithms in pseudocode can be done free-form (in other word
 * moveLeft
 * moveRight
 
-Here is an example algorithm. _Note: It does not actually solve the problem, so technically this is an incorrect algorithm._
+Here is an example algorithm. _Note: It does not actually solve the problem, so technically this is an incorrect algorithm.
+
+![](/assets/wrestiling_4.png)
