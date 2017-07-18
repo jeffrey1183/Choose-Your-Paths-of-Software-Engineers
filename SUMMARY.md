@@ -18,6 +18,8 @@
     * [5.Wrestling with the Swift Compiler](ios-development/lesson-2-introduction-to-xcode/5wrestling-with-the-swift-compiler.md)
   * [Lesson 3: Using Objects](ios-development/lesson-3-using-objects.md)
     * [1. Introduction to Using Objects](ios-development/lesson-3-using-objects/1.md)
+    * [2. Another Struct Example](ios-development/lesson-3-using-objects/2another-structure.md)
+    * [3.Creating an Object Diagram](ios-development/lesson-3-using-objects/3creating-an-object-diagram.md)
 * [Front-End Development](front-end-development.md)
   * [Lesson 1:What is JavaScript](front-end-development/what-is-javascript.md)
     * [1.Intro to Javascript](front-end-development/what-is-javascript/1intro-to-javascript.md)
