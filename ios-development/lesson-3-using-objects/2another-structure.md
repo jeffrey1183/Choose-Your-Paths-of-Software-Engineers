@@ -1,17 +1,18 @@
 #Another Struct Example
-Let's talk about another struct. This time we'll look at the MazeLocation struct. The MazeLocation struct is responsible for storing x- and y-coordinates for an object (like the Robot or the Star) in the maze.
->這邊來講 `MazeLocation` 這個 struct，這個 struct 主要處理物件在 app 內的 x 軸與 y 軸。
+Let's talk about another struct. This time we'll look at the `MazeLocation` struct. The `MazeLocation` struct is responsible for storing x- and y-coordinates for an object (like the Robot or the Star) in the maze.
+>這邊來講 `MazeLocation` 這個 struct，這個 struct 主要儲存物件的 x 軸與 y 軸位置，像儲存星星的座標位置 (0,1)。
 ![](/assets/anotherStruct_1.gif)
 The MazeLocation of the Robot is (3, 2) and the MazeLocation of the Star is (0, 1).
 
-It contains virtually no functionality, and it is primarily used as structured data (x- and y-coordinates) to be consumed by the app (i.e. the maze).
-
-We’ve described objects as consisting of data and functionality. In Swift, we call an object's data “properties” and its functionality “methods”.
+It contains virtually no functionality, and it is primarily used as structured data (x- and y-coordinates) to be consumed by the app (i.e. the maze).We’ve described objects as consisting of data and functionality. In Swift, we call an object's data “properties” and its functionality “methods”.
 
 * `Properties` are the values associated with an object
 * `Methods` are the functionality associated with an object
 
 From now on, we will use these terms, so be sure to take note of them.
+
+>`MazeLocation`並沒有 function 僅僅是資料。在 Swift 裡我們稱 object 的 value 為 properties，稱 function 為 method。接下來會一直用到。
+
 
 It is one thing to try and imagine objects in a running program, but how do we use them?
 
