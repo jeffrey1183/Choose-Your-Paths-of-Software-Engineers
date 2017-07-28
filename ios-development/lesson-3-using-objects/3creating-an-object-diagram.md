@@ -16,6 +16,9 @@ I'd like to take a moment and show you the process of  creating an object diagra
 
 ![](/assets/creatingAnObjectDiagram_1.png)
 
-Also there is some formal and informal way to create them. A formal way might be 
+Also there is some formal and informal way to create them. A formal way might be creating an object diagram using the Universal Modeling Language or UML. And an example object diagram's given here on the left. Now the UML as the modeling language contains a bunch of standard symbols and icons that are helpful for laying out the components of a project. But for many, UML can be really bulky to work with. I am more the fan of informal approach that takes some ideas from UML, but it doesn't get bogged down in the nitty gritty details. And an example of a more informal object diagram is given here on the right.
+>畫 object diagram 比較正式的方法是用 UML 去畫，就像左邊的圖一樣會用到一些標準符號，但 UML 比較麻煩。作者比較喜歡用較不正式但不拘泥於細節的方式去畫，像右圖一樣。
+![](/assets/creatingAnObjectDiagram_2.png)
 
-到26秒到
+到1:02 秒：https://www.youtube.com/watch?v=dQFb_Ws6s64
+
