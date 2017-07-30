@@ -20,5 +20,21 @@ Also there is some formal and informal way to create them. A formal way might be
 >畫 object diagram 比較正式的方法是用 UML 去畫，就像左邊的圖一樣會用到一些標準符號，但 UML 比較麻煩。作者比較喜歡用較不正式但不拘泥於細節的方式去畫，像右圖一樣。
 ![](/assets/creatingAnObjectDiagram_2.png)
 
-到1:02 秒：https://www.youtube.com/watch?v=dQFb_Ws6s64
+So for this example I'm going to take an app that you'll see later called Alien Adventure. This is the main screen  for the app. I can interact with it by tapping on the screen.
+>這邊我們用一個 Alien Adventure 的 app 來舉例，下面是 app 的主畫面，我們可以透過點擊來跟 app 互動。
+
+![](/assets/creatingAnObjectDiagram_3.png)
+
+And we can see the robot will animate across the screen and there's multiple aliens. And the robot and the alien will have a discussion. If the robot answers the alien's question correctly, and then these little gadgets will appear in the lower left corner in the screen.
+> 我們會在 app 看到機器人在畫面上移動，跟外星人對話，如果機器人答對外星人的問題，就會在螢幕的左下角出現徽章。
+![](/assets/creatingAnObjectDiagram_4.png)
+
+At this point we've already seen enough of this app to actually start the object decomposition process. I open the Google drawing to build the diagram. But you could use a piece of paper, a tool like draw.io and any tool you can put your ideas into a diagram.
+
+The first thing we'll start with is the big object which is the app itself. Now the app isn't an actual object in code, but that's ok. We're going to use it as the starting point.
+>我們現在開始進行 object decomposition 的過程，你可以畫在紙上或是用任何可以把 idea 變成 diagram 的工具。
+
+到2:18 秒：https://www.youtube.com/watch?v=dQFb_Ws6s64
+
+
 
