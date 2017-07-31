@@ -34,7 +34,16 @@ At this point we've already seen enough of this app to actually start the object
 The first thing we'll start with is the big object which is the app itself. Now the app isn't an actual object in code, but that's ok. We're going to use it as the starting point.
 >我們現在開始進行 object decomposition 的過程，你可以畫在紙上或是用任何可以把 idea 變成 diagram 的工具。
 
-到2:18 秒：https://www.youtube.com/watch?v=dQFb_Ws6s64
+In UML you typically refer to objects in their singular form. I might use a certain type of symbol for an object maybe a rectangle. And then a certain type of symbol for a struct like a rounded rectangle. What else did we notice in the App? What else could be considered part of the application? I can think of are the background, badges that appeared in the lower left hand corner. And there was a dialog bubble at the top, and it consisted of  multiple lines of text. 
+>在 UML 較正式的寫法下，物件都用單數，像 alien，會用長方形代表物件，用圓邊的長方形代表結構。我還有想到一些物件會出現在 app 內，像是背景、左下角的徽章、泡泡對話框、幾行文字。
+
+![](/assets/creatingAnObjectDiagram_5.png)
+
+But there could also be objects that are behind the scenes. Things that we can't see, but still make some part of the application itself. For example, what about the concept of the game world? It's very creative, abstract thinging type of process. No two people probably  create the same object diagrams.
+
+We're going to refine the diagram and think about how the objects are interconnected. We're also going to look to see if the objects have similarities because that's a big deal when designing apps. If some of objects share traits and other similar functionality, then we can take advantage later when we start writing code.
+
+到: 秒：https://www.youtube.com/watch?v=KphWDw8w8rI
 
 
 
