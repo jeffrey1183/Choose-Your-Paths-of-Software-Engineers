@@ -75,7 +75,7 @@ When a program doesn't work, it's because there is a mistake \(also known as a "
 
 ![](/assets/welcomeToNano_2.png)
 
-* **把學習的內容分成三種類型，真正的學習在這三種狀態中震盪**
+**把學習的內容分成三種類型，真正的學習在這三種狀態中震盪**
 
 
 

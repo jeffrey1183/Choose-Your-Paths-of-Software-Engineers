@@ -5,6 +5,7 @@
 ## 1. Learn to Code
 
 * [Welcome to the Nanodegree](welcome-to-the-nanodegree.md)
+* [Nanodegree Orientation](nanodegree-orientation.md)
 
 ## 6. Choose your Path
 
