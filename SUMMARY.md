@@ -1,13 +1,10 @@
 # Summary
 
+## Introduction
+
 * [Introduction](README.md)
 
-## 1. Learn to Code
-
-* [Welcome to the Nanodegree](welcome-to-the-nanodegree.md)
-* [Nanodegree Orientation](nanodegree-orientation.md)
-
-## 6. Choose your Path
+## Choose your Path
 
 * [iOS Developer](ios-development.md)
   * [Lesson 1: Introduction to iOS](ios-development/lesson-1-introduction-to-ios.md)
